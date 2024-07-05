@@ -1,0 +1,23 @@
+.title-page{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+
+.title-text{
+    font-size: 20px;
+    padding: 0 0 0 15px;
+}
+
+.subtitle-text{
+    font-size: 15px;
+    padding: 0 0 0 25px;
+}
+
+.subtitle-info{
+    padding: 0 0 0 35px;
+}
+
+.paragraph{
+    padding: 0 0 0 35px;
+}
